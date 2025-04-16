@@ -13,7 +13,8 @@ To write a python program for creating Chat using TCP Sockets Links.
 
 ## OUPUT
 
-![chat_terminal](https://github.com/user-attachments/assets/65fc463a-ac0c-450a-a3a8-f0ec33860fd0)
+![chat_terminal](https://github.com/user-attachments/assets/e0e41fb1-1165-4e2a-adef-55fb6829d5aa)
+
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
