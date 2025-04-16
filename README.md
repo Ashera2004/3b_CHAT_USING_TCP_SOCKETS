@@ -11,7 +11,7 @@ To write a python program for creating Chat using TCP Sockets Links.
 
 ![chat_code](https://github.com/user-attachments/assets/e7bdd201-5c83-45bf-affa-41a71b9bdeae)
 
-## OUPUT
+## OUTPUT
 
 ![chat_terminal](https://github.com/user-attachments/assets/e0e41fb1-1165-4e2a-adef-55fb6829d5aa)
 
